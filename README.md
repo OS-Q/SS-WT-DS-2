@@ -1,22 +1,11 @@
-﻿# [winimage](https://github.com/Qitas/winimage) 
+# GNU Arm Embedded GCC
 
-### qitas@qitas.cn
+The **xPack GNU Arm Embedded GCC** (formerly GNU MCU Eclipse Arm GCC)
+is the **xPack** version of the **GNU Arm Embedded Toolchain**
+maintained by Arm.
 
-### [简介](https://github.com/Qitas/winimage/wiki)
+For more details, please read the corresponding release pages:
 
-winimage工具，基于rufus开源工程
+- <https://xpack.github.io/arm-none-eabi-gcc/releases/>
+- <https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads/>
 
-
-## [构成](qitas/)
-
-
-####  [winsrc](winsrc/)
-
-window 下rufus源码工程
-
-
----
-
-### 锻造最美之器
-
-[![sites](qitas/qitas.png)](http://www.qitas.cn)
